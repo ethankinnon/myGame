@@ -80,6 +80,7 @@ score = "0";
 started= false;
 $("#lightJoint").text("Light the Joint")
 $(".joint-img").show();
-$(".time-taken").hide()
+$(".time-taken").hide();
+$(".title").text("Lets get wavyyyyy")
 
 }
