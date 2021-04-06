@@ -1,0 +1,25 @@
+body{
+  text-align: center;
+  padding:7%;
+}
+
+.green{
+  background-color: green;
+}
+.container{
+
+
+}
+
+.img{
+position:relative;
+margin:auto;
+}
+
+.row{
+  position:inherit;
+}
+
+.red{
+  background-color: red;
+}
